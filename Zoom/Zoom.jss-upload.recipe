@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of Zoom and builds a package. Then, uploads to the Jamf Pro Server.</string>
 	<key>Identifier</key>
-	<string>com.github.homebysix.jss-upload.Zoom</string>
+	<string>com.github.LordOfTheJamf.jss-patch.Zoom</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
