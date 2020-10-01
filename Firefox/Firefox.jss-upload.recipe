@@ -14,8 +14,12 @@
 		<string>en-US</string>
 		<key>NAME</key>
 		<string>Firefox</string>
-		<key>POLICY_CATEGORY</key>
-		<string></string>
+		<key>PATCH_NAME</key>
+		<string>Mozilla Firefox</string>
+		<key>PATCH_TEMPLATE</key>
+		<string>PatchTemplate.xml</string>
+<!-- 		<key>POLICY_CATEGORY</key>
+		<string>Applications</string>
 		<key>POLICY_TEMPLATE</key>
 		<string></string>
 		<key>RELEASE</key>
@@ -23,7 +27,7 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string></string>
 		<key>SELF_SERVICE_ICON</key>
-		<string></string>
+		<string></string> -->
 	</dict>
 	<key>ParentRecipe</key>
 	<string>com.github.autopkg.jss-upload.Firefox_EN</string>
